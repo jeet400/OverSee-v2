@@ -7,6 +7,7 @@ I fix some bugs**
 
 ## Installation
 
+--------------------------------------------------
 To install and start the OverSee-v2 dashboard, run the following commands:
 
 --------------------------------------------------
