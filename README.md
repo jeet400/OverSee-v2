@@ -1,8 +1,8 @@
 # OverSee-v2
 
 ## **this is new version of OverSee-fixed
-I have permission to make this project 
-I fix some bugs**
+## **I have permission to make this project 
+## **I fixed some bugs
 
 
 ## Installation
@@ -44,3 +44,7 @@ npm rebuild
 ```bash
 rm -rf node_modules package-lock.json
 npm install
+
+## Created with ❤️ by ma4z.
+## Edited ❤️ by hopingboyz
+## bugs fixed ♥️ by better then your gaming
