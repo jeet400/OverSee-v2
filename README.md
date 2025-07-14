@@ -10,24 +10,25 @@ I fix some bugs**
 To install and start the OverSee-v2 dashboard, run the following commands:
 
 ```bash
-wget -O Gamerhost-official.zip "https://www.dropbox.com/scl/fi/qkv0re33v9ulxzujrrivw/Gamerhost-official.zip?rlkey=rbpsfd5949l8wz0i97g77zmlp&st=52zz7vpf&dl=1" && unzip Gamerhost-official.zip```markdown
-install node.js
+wget -O Gamerhost-official.zip "https://www.dropbox.com/scl/fi/qkv0re33v9ulxzujrrivw/Gamerhost-official.zip?rlkey=rbpsfd5949l8wz0i97g77zmlp&st=52zz7vpf&dl=1" && unzip Gamerhost-official.zip
+
+## install node.js
 
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
-start
+## start
 
 ```bash
 cd oversee-fixed && npm install && npm run seed && npm run createUser && node .
 
-if not work
+## if not work
 
 ```bash
 npm rebuild
 
-if these doesn't work
+## if these doesn't work
 
 ```bash
 rm -rf node_modules package-lock.json
