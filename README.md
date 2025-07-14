@@ -45,5 +45,5 @@ rm -rf node_modules package-lock.json
 npm install
 
 ## Created with ❤️ by ma4z.
-## Edited ❤️ by hopingboyz
-## bugs fixed ♥️ by better then your gaming
+## Edited ❤️ by hopingboyz.
+## bugs fixed ♥️ by better then your gaming.
