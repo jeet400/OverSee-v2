@@ -16,6 +16,9 @@ wget -O Gamerhost-official.zip "https://www.dropbox.com/scl/fi/qkv0re33v9ulxzujr
 
 
 --------------------------------------------------
+# unzip
+unzip Gamerhost-official.zip
+--------------------------------------------------
 
 ## install node.js
 
