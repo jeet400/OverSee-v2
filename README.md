@@ -43,6 +43,13 @@ npm rebuild
 
 rm -rf node_modules package-lock.json
 npm install
+--------------------------------------------------
+
+node ?
+
+--------------------------------------------------
+https://github.com/dragonlabsdev/draco-daemon
+--------------------------------------------------
 
 ## Created with ❤️ by ma4z.
 ## Edited ❤️ by hopingboyz
