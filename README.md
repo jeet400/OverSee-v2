@@ -1,5 +1,7 @@
 # OverSee-v2
 
+# NODE (SOON)
+
 ###  this is new version of OverSee-fixed
 ###  I have permission to make this project 
 ###  I fixed some bugs
@@ -49,7 +51,7 @@ rm -rf node_modules package-lock.json
 npm install
 --------------------------------------------------
 
-node ?
+# node? (SOON)
 
 --------------------------------------------------
 https://github.com/dragonlabsdev/draco-daemon
