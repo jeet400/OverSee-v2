@@ -58,5 +58,5 @@ https://github.com/dragonlabsdev/draco-daemon
 --------------------------------------------------
 
 ## Created with ❤️ by ma4z.
-## Edited ❤️ by hopingboyz
-## bugs fixed ♥️ by better then your gaming
+## Edited ❤️ by hopingboyz.
+## bugs fixed ♥️ by better then your gaming.
